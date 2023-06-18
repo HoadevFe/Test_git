@@ -10,6 +10,10 @@ Thay doi lan thu 5
 
 
 Thay doi day
+Duoi local toi cung thay doi dong so 13
 Toi them tai dong 13(new)
-
 toi tiep tuc code ben main de push len nhanh test_branch
+
+
+
+
